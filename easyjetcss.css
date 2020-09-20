@@ -1,0 +1,46 @@
+   #map {
+        height: 100%;
+      }
+
+      html, body {
+         font-family: Arial, Helvetica, sans-serif;
+         height: 100%;
+         margin: 0;
+         padding: 0;
+      }
+    #jname {
+       width: auto;
+      padding: 12px 20px;
+      margin: 8px;
+       display: inline-block;
+       border: 2px solid #ccc;
+      box-sizing: border-box;
+
+   }
+
+   #des {
+    margin-left: 150px;
+       border: 2px solid #ccc;
+      box-sizing: border-box;
+
+   }
+
+   .button {
+   background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  margin-left: 50px;
+  border-radius: 30px;
+  cursor: pointer;
+  width: 20%;
+
+}
+
+button:hover {
+   opacity: 0.8;
+
+}
+span.psw {
+  padding-top: 16px;
+}
